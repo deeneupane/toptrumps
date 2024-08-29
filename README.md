@@ -8,7 +8,7 @@ Original Plan for the project
 
 4.Get a random Pokemon for the player and another for their opponent
 
-5.Ask the user which stat they want to use (id, height or weight)
+5.Ask the user which stat they want to use (id, height or weight) 
 
 6.Compare the player's and opponent's Pokemon on the chosen stat to decide who wins
 
